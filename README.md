@@ -16,5 +16,5 @@ python3 heat_2D.py
 
 ```
 
-This will generate an mp4 file that shows the time evolution of the heat.
+This will generate the `heat_evolution.mp4`  file that shows the time evolution of the heat.
 ![](heat.gif)
