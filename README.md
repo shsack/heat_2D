@@ -13,7 +13,6 @@ To run the program you have to type
 
 ```
 python3 heat_2D.py
-
 ```
 
 This will generate the `heat_evolution.mp4`  file that shows the time evolution of the heat.
