@@ -18,3 +18,6 @@ python3 heat_2D.py
 
 This will generate the `heat_evolution.mp4`  file that shows the time evolution of the heat.
 ![](heat.gif)
+
+
+<video src="heat_evolution.mp4" width="320" height="200" controls preload></video>
